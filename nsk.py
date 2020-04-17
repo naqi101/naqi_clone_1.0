@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•Muhammad Ali Naqi---------•◈•
+|__\~~) •||•------Shahzaib--------------•◈•
+|__(-----\  •◈•-- NSK_TECH--------------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92M_Ali_Naqi
+\033[1;96mInstagram \033[1;93m: \033[1;NSK-Tech
+\033[1;96mFacebook  \033[1;93m: \033[1; NSK Tech
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/naqi101/naqi_clone_1.0/
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mM_Ali_Naqi
+\033[1;96mInstagram \033[1;93m: \033[1;92mNSK_Tech
+\033[1;96mFacebook  \033[1;93m: \033[1;92m NSK_Tech
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/naqi101/naqi_clone_1.0
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "shahzaib"
+CorrectPassword = "nsk"
 
 loop = 'true'
 while (loop == 'true'):
